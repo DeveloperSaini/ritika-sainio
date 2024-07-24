@@ -10,6 +10,15 @@ div {
   width: auto;
 }
 
+<<<<<<< HEAD
 select {
   color: aliceblue;
+=======
+cite {
+  box-shadow: inset;
+}
+
+section {
+  color: black;
+>>>>>>> main
 }
