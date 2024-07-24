@@ -9,3 +9,11 @@ a {
 div {
   width: auto;
 }
+
+cite {
+  box-shadow: inset;
+}
+
+section {
+  color: black;
+}
