@@ -5,3 +5,7 @@ p {
 a {
   background-color: green;
 }
+
+div {
+  width: auto;
+}
