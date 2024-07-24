@@ -9,3 +9,7 @@ a {
 div {
   width: auto;
 }
+
+select {
+  color: aliceblue;
+}
